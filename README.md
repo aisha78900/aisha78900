@@ -21,26 +21,41 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🚀 My Skills
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode" />
-</p>
+<table>
+  <tr>
+    <td><strong>HTML</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/100%25-F06529?style=flat&logo=html5&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>CSS</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/95%25-2965f1?style=flat&logo=css3&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>JavaScript</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/90%25-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>React</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/85%25-61DAFB?style=flat&logo=react&logoColor=black" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Tailwind CSS</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/90%25-38B2AC?style=flat&logo=tailwindcss&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
----
-
-### 📫 Get in Touch
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ayeshaowais0001122333/" target="_blank">LinkedIn</a> | 
-  <a href="mailto:ayesha.dev@example.com">Email</a>
-</p>
-
-
-
-<p align="center">
- 
-</p>
 
 ---
 

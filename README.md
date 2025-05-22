@@ -4,7 +4,7 @@
 </h1>
 <!-- Banner Image -->
 <p align="center">
-  <img src="" alt="Ayesha GitHub Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/aisha78900/aisha78900/5bf2c275c9b1b7a24108b2c0a3de9640dd38a7a5/Blue%20and%20White%20Illustrated%20Welcome%20Banner.png?raw=true" alt="Ayesha GitHub Banner" width="100%" />
 </p>
 
 

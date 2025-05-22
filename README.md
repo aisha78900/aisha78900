@@ -4,17 +4,26 @@
 </h1>
  <p align="center">
  <p align="center">
+  <<p align="center">
   <a href="https://www.youtube.com/channel/YourChannelID" target="_blank" style="text-decoration:none;">
-    <span style="background:#fff; padding:6px 12px; border-radius:8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15); color:black; font-weight:bold; font-family:sans-serif; display: inline-block;">
+    <span style="background:#fff; color:#000; padding:10px 20px; border-radius:8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); font-weight:600; font-family: Arial, sans-serif; display:inline-block; margin:0 8px;">
       YouTube
     </span>
   </a>
-  &nbsp;&nbsp;
+
   <a href="https://www.facebook.com/YourProfile" target="_blank" style="text-decoration:none;">
-    <span style="background:#fff; padding:6px 12px; border-radius:8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15); color:black; font-weight:bold; font-family:sans-serif; display: inline-block;">
+    <span style="background:#fff; color:#000; padding:10px 20px; border-radius:8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); font-weight:600; font-family: Arial, sans-serif; display:inline-block; margin:0 8px;">
       Facebook
     </span>
   </a>
+
+  <a href="https://www.linkedin.com/in/YourLinkedIn" target="_blank" style="text-decoration:none;">
+    <span style="background:#fff; color:#000; padding:10px 20px; border-radius:8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); font-weight:600; font-family: Arial, sans-serif; display:inline-block; margin:0 8px;">
+      LinkedIn
+    </span>
+  </a>
+</p>
+
 </p>
 
 </p>

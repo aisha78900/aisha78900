@@ -2,8 +2,20 @@
   Hi, I'm Ayesha
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="waving hand" width="30" />
 </h1>
+ <p align="center">
+  <a href="https://www.youtube.com/channel/YourChannelID" target="_blank" style="text-decoration:none;">
+    <span style="background:#fff; padding:6px 12px; border-radius:8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15); display: inline-block;">
+      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge" />
+    </span>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.facebook.com/YourProfile" target="_blank" style="text-decoration:none;">
+    <span style="background:#fff; padding:6px 12px; border-radius:8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15); display: inline-block;">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge" />
+    </span>
+  </a>
+</p>
 
-<h3 align="center">Web Developer | UI/UX Enthusiast | Clean Code Advocate</h3>
 
 ---
 
@@ -35,17 +47,7 @@
 
 
 <p align="center">
-  <a href="https://www.youtube.com/channel/YourChannelID" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.facebook.com/YourProfile" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://twitter.com/YourProfile" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" />
-  </a>
+ 
 </p>
 
 ---

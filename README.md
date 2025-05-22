@@ -3,17 +3,20 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="waving hand" width="30" />
 </h1>
  <p align="center">
+ <p align="center">
   <a href="https://www.youtube.com/channel/YourChannelID" target="_blank" style="text-decoration:none;">
-    <span style="background:#fff; padding:6px 12px; border-radius:8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15); display: inline-block;">
-      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge" />
+    <span style="background:#fff; padding:6px 12px; border-radius:8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15); color:black; font-weight:bold; font-family:sans-serif; display: inline-block;">
+      YouTube
     </span>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.facebook.com/YourProfile" target="_blank" style="text-decoration:none;">
-    <span style="background:#fff; padding:6px 12px; border-radius:8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15); display: inline-block;">
-      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge" />
+    <span style="background:#fff; padding:6px 12px; border-radius:8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15); color:black; font-weight:bold; font-family:sans-serif; display: inline-block;">
+      Facebook
     </span>
   </a>
+</p>
+
 </p>
 
 

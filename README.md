@@ -13,11 +13,3 @@
 </p>
 
 ---
-
-### 🧠 Tech Stack
-
-```python
-Languages    = ["Python", "JavaScript"]
-Frameworks   = ["FastAPI", "Next.js"]
-AI Tools     = ["OpenAI", "Langchain", "Vector DBs"]
-Focus        = "Building AI SaaS tools with speed & purpose"

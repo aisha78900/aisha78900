@@ -1,4 +1,4 @@
-<h1 align="center">🐍 AYESHA – PYTHON & AI ENGINEER</h1>
+<h1 align="center"> AYESHA – PYTHON & AI ENGINEER</h1>
 <p align="center">Building Autonomous AI Agents & SaaS Tools</p>
 
 <p align="center">

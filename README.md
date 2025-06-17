@@ -1,23 +1,31 @@
-<h1 align="center">🐍 AYESHA – PYTHON & AI ENGINEER</h1>
-<p align="center">Building Autonomous AI Agents & SaaS Tools</p>
-
+<h1 align="center">⚡ AYESHA – THE AI ENGINEER ⚡</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=00C49A&center=true&width=435&lines=Shipping+AI-powered+tools+%F0%9F%9A%80;LangChain+%2B+OpenAI+%2B+FastAPI;Python+Developer+with+Clean+Logic" alt="Typing SVG" />
+  <b>SaaS Builder | AI Agent Dev | Pythonista 🐍</b><br>
+  <i>Building tools that think while I sleep 💤</i>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-Developer-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI-Engineer-424242?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Langchain-Builder-4B9CD3?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/FastAPI-Creator-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F57373&width=435&lines=I+build+AI+SaaS+Tools+%F0%9F%92%BB;I+automate+intelligence+%E2%9A%99%EF%B8%8F;I+code+in+Python+and+Next.js+%F0%9F%90%8D" alt="Typing SVG" />
 </p>
 
----
+<p align="center">
 
-### 🧠 Tech Stack
+<pre>
+<code>
+Languages   = ["Python", "JavaScript"]
+Frameworks  = ["FastAPI", "Next.js"]
+AI_Tools    = ["OpenAI", "Langchain", "Vector DBs"]
+Focus       = "Building AI SaaS tools with speed & purpose"
+</code>
+</pre>
 
-```python
-Languages    = ["Python", "JavaScript"]
-Frameworks   = ["FastAPI", "Next.js"]
-AI Tools     = ["OpenAI", "Langchain", "Vector DBs"]
-Focus        = "Building AI SaaS tools with speed & purpose"
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AyeshaOwais&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyeshaOwais&layout=compact&theme=radical" height="150"/>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/ayesha-dev">LinkedIn</a> • <a href="https://github.com/AyeshaOwais">GitHub</a>
+</p>

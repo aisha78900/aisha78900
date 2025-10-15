@@ -12,4 +12,4 @@
   <img src="https://img.shields.io/badge/FastAPI-Creator-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
 
----
+---------
